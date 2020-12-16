@@ -5,5 +5,5 @@
  * @returns {number}
  */
 function sum(m = 0, n = 0) {
-  return +(m + n).toFixed(5);
+  return m + n;
 }
